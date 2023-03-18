@@ -33,5 +33,5 @@
 <!-- blog starts -->
 
 #### 🏃‍♂️ 跑步
-![2023](https://github.com/Loongphy/running/blob/main/assets/github_2023.svg)
+![2023](./github_2023.svg)
 

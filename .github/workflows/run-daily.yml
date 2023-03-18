@@ -26,6 +26,12 @@ jobs:
       run: |-
         python main.py
         cat README.md
+    
+    - name: Update running
+      env:
+        TOKEN: ${{ secrets.running }}
+      run: |
+        curl -H "Authorization: token ${TOKEN}" -O https://raw.githubusercontent.com/Loongphy/running/main/assets/github_2023.svg
 
     - name: Commit and push if changed
       run: |-
