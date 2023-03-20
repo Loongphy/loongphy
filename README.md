@@ -20,10 +20,16 @@
 #### 📚 最近在读
 
 <!-- weread starts -->
+* 高效能人士的七个习惯
 * 灵境行者
+* 渊天尊
 * 被讨厌的勇气
-* 史蒂夫*乔布斯传（2014修订版）
-* Python工匠：案例、技巧与工程实践
+* 深入浅出PostgreSQL
+<details> 
+  <summary>上周数据</summary>
+
+  ![weread](https://user-images.githubusercontent.com/42089082/226226709-5c830316-d8ea-4448-9b14-a427940ef1bf.jpg)
+</details>
 <!-- weread ends -->
 
 #### 📑 最新博客
