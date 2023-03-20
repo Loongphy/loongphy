@@ -36,7 +36,7 @@
 
 <!-- blog starts -->
 * <a href=https://blog.loongphy.com/posts/2022-review/ target='_blank'>廿四，沉沦与挣扎</a> - 2022-12-09
-<!-- blog starts -->
+<!-- blog ends -->
 
 #### 🏃‍♂️ 跑步
 ![2023](./github_2023.svg)
