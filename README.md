@@ -35,6 +35,7 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://blog.loongphy.com/posts/weekly-review-20230326/ target='_blank'>周报#4 写作工具流</a> - 2023-03-26
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230319/ target='_blank'>周报#3 重启、自愈</a> - 2023-03-19
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230219/ target='_blank'>周报#2 懒狗的自我修养</a> - 2023-02-19
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230211/ target='_blank'>周报#1 ChatGPT，全知并非全能</a> - 2023-02-11
