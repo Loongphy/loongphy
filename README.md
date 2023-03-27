@@ -20,15 +20,13 @@
 #### 📚 最近在读
 
 <!-- weread starts -->
-* 高效能人士的七个习惯
-* 灵境行者
-* 渊天尊
 * 被讨厌的勇气
-* 深入浅出PostgreSQL
+* 灵境行者
 <details> 
   <summary>上周数据</summary>
 
-  ![weread](https://user-images.githubusercontent.com/42089082/226226709-5c830316-d8ea-4448-9b14-a427940ef1bf.jpg)
+  ![weread](https://user-images.githubusercontent.com/42089082/227928384-f4271861-a4bc-45c7-bb63-862ed2e34d53.png)
+
 </details>
 <!-- weread ends -->
 
