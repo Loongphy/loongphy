@@ -13,6 +13,13 @@
 <code><img height="20" alt="spring-boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 | <a href="https://github.com/loongphy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loongphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/loongphy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loongphy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -41,5 +48,5 @@
 <!-- blog ends -->
 
 #### 🏃‍♂️ 跑步
-![2023](./github_2023.svg)
+![2023](github_2023.svg)
 
