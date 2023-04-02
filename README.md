@@ -27,12 +27,16 @@
 #### 📚 最近在读
 
 <!-- weread starts -->
-* 被讨厌的勇气
-* 灵境行者
+- 灵境行者
+- 高效能人士的七个习惯
+- 被讨厌的勇气
+- 好好学习
+- 深入浅出PostgreSQL
+- 离婚律师都知道
 <details> 
-  <summary>上周数据</summary>
+  <summary>上月数据</summary>
 
-  ![weread](https://user-images.githubusercontent.com/42089082/227928384-f4271861-a4bc-45c7-bb63-862ed2e34d53.png)
+  ![weread](https://user-images.githubusercontent.com/42089082/229333497-2acb9968-575c-4ecb-a44b-ed33de1ab554.jpg)
 
 </details>
 <!-- weread ends -->
