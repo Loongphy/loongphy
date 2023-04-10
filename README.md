@@ -44,11 +44,11 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://blog.loongphy.com/posts/weekly-review-20230409/ target='_blank'>周报#5 AI时代，写作的意义</a> - 2023-04-09
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230326/ target='_blank'>周报#4 写作工具流</a> - 2023-03-26
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230319/ target='_blank'>周报#3 重启、自愈</a> - 2023-03-19
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230219/ target='_blank'>周报#2 懒狗的自我修养</a> - 2023-02-19
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230211/ target='_blank'>周报#1 ChatGPT，全知并非全能</a> - 2023-02-11
-* <a href=https://blog.loongphy.com/posts/2022-review/ target='_blank'>廿四，沉沦与挣扎</a> - 2022-12-09
 <!-- blog ends -->
 
 #### 🏃‍♂️ 跑步
