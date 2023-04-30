@@ -1,6 +1,7 @@
 #### Hi there 👋
 
 [![blog](https://img.shields.io/badge/-blog-blueviolet)](https://blog.loongphy.com/)
+[![xlog](https://img.shields.io/badge/-xlog-orange)](https://xlog.loongphy.com/)
 [![running](https://img.shields.io/badge/-running-brightgreen)](https://running.loongphy.com/)
 [![Visits Badge](https://badges.strrl.dev/visits/loongphy/loongphy?style=flat-square)](https://github.com/loongphy)
 
