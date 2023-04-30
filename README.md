@@ -45,11 +45,11 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://blog.loongphy.com/posts/chatgpt-prompt-engineering-for-developers-notes-20230430/ target='_blank'>ChatGPT Prompt Engineering for Developers 笔记</a> - 2023-04-30
+* <a href=https://blog.loongphy.com/posts/request-access-to-azure-openai-service-20230425/ target='_blank'>Azure OpenAI Service 申请流程和注意事项</a> - 2023-04-25
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230416/ target='_blank'>周报#6 原生家庭的影响</a> - 2023-04-16
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230409/ target='_blank'>周报#5 AI时代，写作的意义</a> - 2023-04-09
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230326/ target='_blank'>周报#4 写作工具流</a> - 2023-03-26
-* <a href=https://blog.loongphy.com/posts/weekly-review-20230319/ target='_blank'>周报#3 重启、自愈</a> - 2023-03-19
-* <a href=https://blog.loongphy.com/posts/weekly-review-20230219/ target='_blank'>周报#2 懒狗的自我修养</a> - 2023-02-19
 <!-- blog ends -->
 
 #### 🏃‍♂️ 跑步
