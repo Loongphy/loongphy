@@ -29,15 +29,12 @@
 
 <!-- weread starts -->
 - 灵境行者
-- 高效能人士的七个习惯
-- 被讨厌的勇气
-- 好好学习
-- 深入浅出PostgreSQL
-- 离婚律师都知道
+- 5000 天后的世界
+- 可能性的艺术
 <details> 
   <summary>上月数据</summary>
 
-  ![weread](https://user-images.githubusercontent.com/42089082/229333497-2acb9968-575c-4ecb-a44b-ed33de1ab554.jpg)
+  ![weread](https://user-images.githubusercontent.com/42089082/235459453-4600a541-26cc-45fd-a89b-d9359d90839f.png)
 
 </details>
 <!-- weread ends -->
