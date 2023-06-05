@@ -28,13 +28,14 @@
 #### 📚 最近在读
 
 <!-- weread starts -->
-- 灵境行者
-- 5000 天后的世界
-- 可能性的艺术
+- 翦商：周之变与华夏新生
+- 操作系统导论
+- 我的精神家园
+- 伯恩斯焦虑自助疗法
 <details> 
   <summary>上月数据</summary>
-
-  ![weread](https://user-images.githubusercontent.com/42089082/235459453-4600a541-26cc-45fd-a89b-d9359d90839f.png)
+  
+  <img src="https://github.com/Loongphy/loongphy/assets/42089082/3e6202d7-c11f-4d14-8c23-3f20e134d06a" width="400" />
 
 </details>
 <!-- weread ends -->
