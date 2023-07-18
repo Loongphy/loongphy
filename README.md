@@ -28,16 +28,15 @@
 #### 📚 最近在读
 
 <!-- weread starts -->
-- 翦商：周之变与华夏新生
-- 操作系统导论
-- 我的精神家园
-- 伯恩斯焦虑自助疗法
+- 一个悲观主义者的积极思考
+<!-- comment out
 <details> 
   <summary>上月数据</summary>
   
   <img src="https://github.com/Loongphy/loongphy/assets/42089082/3e6202d7-c11f-4d14-8c23-3f20e134d06a" width="400" />
 
 </details>
+-->
 <!-- weread ends -->
 
 #### 📑 最新博客
