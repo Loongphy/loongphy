@@ -34,12 +34,14 @@ jobs:
           curl -H "Authorization: token ${TOKEN}" -O https://raw.githubusercontent.com/Loongphy/running/main/assets/github_2023.svg
 
       - name: generate contribution-grid-snake
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |-
