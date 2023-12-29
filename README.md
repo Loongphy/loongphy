@@ -42,11 +42,11 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://blog.loongphy.com/posts/2023-review/ target='_blank'>廿五：无题</a> - 2023-12-28
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230618/ target='_blank'>周报#9 burn out</a> - 2023-06-18
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230611/ target='_blank'>周报#8 医院奔波</a> - 2023-06-11
 * <a href=https://blog.loongphy.com/posts/weekly-review-20230604/ target='_blank'>周报#7 耳朵伤病、被 uni-app 折磨</a> - 2023-06-04
 * <a href=https://blog.loongphy.com/posts/chatgpt-prompt-engineering-for-developers-notes-20230430/ target='_blank'>ChatGPT Prompt Engineering for Developers 笔记</a> - 2023-04-30
-* <a href=https://blog.loongphy.com/posts/request-access-to-azure-openai-service-20230425/ target='_blank'>Azure OpenAI Service 申请流程和注意事项</a> - 2023-04-25
 <!-- blog ends -->
 
 #### 🏃‍♂️ 跑步
