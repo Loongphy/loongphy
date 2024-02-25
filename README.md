@@ -13,6 +13,10 @@
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="spring-boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 
+<picture decoding="async" loading="lazy">
+ <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Loongphy" />
+</picture>
+
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
