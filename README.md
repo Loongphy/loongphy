@@ -1,8 +1,11 @@
-#### Hi there 👋
-
-[![blog](https://img.shields.io/badge/-blog-blueviolet)](https://loongphy.com/)
-[![xlog](https://img.shields.io/badge/-xlog-orange)](https://xlog.loongphy.com/)
-[![running](https://img.shields.io/badge/-running-brightgreen)](https://running.loongphy.com/)
+<p>
+  <samp>
+    <a href="https://bento.me/ddl">me</a> .
+    <a href="https://loongphy.com">blog</a> .
+    <a href="https://xlog.loongphy.com">xlog</a> .
+    <a href="https://running.loongphy.com">🏃 running</a>
+  </samp>
+</p>
 
 <p>生命不息，折腾不止</p>
 
