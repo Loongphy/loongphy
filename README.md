@@ -3,7 +3,7 @@
     <a href="https://bento.me/ddl">me</a> .
     <a href="https://loongphy.com">blog</a> .
     <a href="https://xlog.loongphy.com">xlog</a> .
-    <a href="https://running.loongphy.com">🏃 running</a>
+    🏃&nbsp;<a href="https://running.loongphy.com">running</a>
   </samp>
 </p>
 
