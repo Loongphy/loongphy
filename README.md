@@ -16,11 +16,6 @@
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
-<picture decoding="async" loading="lazy">
- <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Loongphy" />
-</picture>
-
-
 #### 📑 最新博客
 
 <!-- blog starts -->
