@@ -19,8 +19,8 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://loongphy.com/blog/electron-preload-cjs-with-sandbox/ target='_blank'>Electron: 沙箱 + preload CJS</a> - 2025-10-27
 * <a href=https://loongphy.com/blog/codex-tutorial/ target='_blank'>OpenAI Codex 不完全の伪新手指南</a> - 2025-09-16
 * <a href=https://loongphy.com/blog/2024-review/ target='_blank'>廿六：肉体苦弱</a> - 2024-12-16
-* <a href=https://loongphy.com/blog/late-chunking/ target='_blank'>Late Chunking：提高 RAG 在长上下文问答应用中的性能</a> - 2024-09-22
 <!-- blog ends -->
 
