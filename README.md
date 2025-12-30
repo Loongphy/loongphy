@@ -19,8 +19,8 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://loongphy.com/blog/vibe-coding-2025-running-summary-copied-cursor/ target='_blank'>Vibe Coding 仿照 Cursor 做了一个跑步的年度总结</a> - 2025-12-29
 * <a href=https://loongphy.com/blog/google-antigravity-stuck-setting-up-your-account/ target='_blank'>Google Antigravity 卡在 Setting Up Your Account 无法登录的解决方案</a> - 2025-11-19
 * <a href=https://loongphy.com/blog/electron-preload-cjs-with-sandbox/ target='_blank'>Electron: 沙箱 + preload CJS</a> - 2025-10-27
-* <a href=https://loongphy.com/blog/codex-tutorial/ target='_blank'>OpenAI Codex 不完全の伪新手指南</a> - 2025-09-16
 <!-- blog ends -->
 
