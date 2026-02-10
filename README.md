@@ -19,8 +19,8 @@
 #### 📑 最新博客
 
 <!-- blog starts -->
+* <a href=https://loongphy.com/blog/ai-coding-2025/ target='_blank'>万字长文：2025 年，我对 AI 编程的全部理解——Part 1</a> - 2026-02-09
 * <a href=https://loongphy.com/blog/codex-fork-maintenance-upstream-sync-skills/ target='_blank'>构建比官方更顺手的 Codex，Skills 自动化同步上游</a> - 2026-02-06
 * <a href=https://loongphy.com/blog/openai-codex-app-for-windows/ target='_blank'>OpenAI Codex App for Windows: 从零构建教程 (含安装包)</a> - 2026-02-04
-* <a href=https://loongphy.com/blog/vibe-coding-2025-running-summary-copied-cursor/ target='_blank'>Vibe Coding 仿照 Cursor 做了一个跑步的年度总结</a> - 2025-12-29
 <!-- blog ends -->
 
